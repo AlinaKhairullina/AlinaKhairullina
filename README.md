@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+<div id="header" align="center">
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="700" height="300"/>
+</div>
 
 <!--
 **AlinaKhairullina/AlinaKhairullina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
